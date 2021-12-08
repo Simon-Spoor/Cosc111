@@ -1,4 +1,4 @@
-public class fnord4 {
+public class Q5 {
     public static void main(String args[]){
         int x = 1;
         if ((x > 1) & (x++ < 10));

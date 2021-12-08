@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class fnord {
+public class Q1 {
     public static void main(String[] args) {
         int numItemsCheck;
 

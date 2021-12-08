@@ -3,7 +3,7 @@ import java.util.Arrays;
 import java.util.Collections;
 
 
-public class fnord2 {
+public class Q2 {
     public static void main(String[] args) {
         //CREATE ARRAY AND LIST
         int[][] baseArray = {
