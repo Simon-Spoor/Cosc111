@@ -53,7 +53,3 @@ class cuboid {
     }
 
 }
-/* 
-System.out.println("color: " + Cuboid_1.getColour() + "\nDimensions: " + Cuboid_1.getLength() +" "+ Cuboid_1.getWidth() +" "+ Cuboid_1.getHeight() +"\nSurface Area: " + Cuboid_1.getSurfaceArea() + "\nVolume " + Cuboid_1.getVolume());
-System.out.println("color: " + Cuboid_2.getColour() + "\nDimensions: " + Cuboid_2.getLength() +" "+ Cuboid_2.getWidth() +" "+ Cuboid_2.getHeight() +"\nSurface Area: " + Cuboid_2.getSurfaceArea() + "\nVolume " + Cuboid_2.getVolume());
-*/

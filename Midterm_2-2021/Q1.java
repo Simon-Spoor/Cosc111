@@ -6,6 +6,7 @@ public class Q1 {
         int numItemsCheck;
 
 
+
         //USER INPUT TAKEN  
         Scanner input = new Scanner(System.in);
         System.out.println("How many numbers will be checked");

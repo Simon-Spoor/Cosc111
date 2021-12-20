@@ -8,5 +8,6 @@ public class Q1 {
             "U   U  B   B  C    \n" +
             " U U   B B     C C "
         );
+
     }
 }
